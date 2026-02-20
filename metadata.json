@@ -1,0 +1,8 @@
+{
+  "name": "Mover3: Vision Movement Simulator",
+  "description": "A computer vision-based fitness app for Boxing, Dance, Stretching, and Yoga using body tracking for a gamified health experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
